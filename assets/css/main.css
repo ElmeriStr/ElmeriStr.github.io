@@ -2072,7 +2072,6 @@ input, select, textarea {
 		transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
 		border: 0;
 		border-radius: 0;
-		cursor: pointer;
 		display: inline-block;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.8rem;
@@ -2399,7 +2398,6 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			cursor: pointer;
 			display: inline-block;
 			font-size: 1rem;
 			letter-spacing: 0;
@@ -4607,7 +4605,6 @@ input, select, textarea {
 			-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 			border: 0;
 			color: #909498;
-			cursor: pointer;
 			display: block;
 			height: 3.25rem;
 			line-height: 3.25rem;
